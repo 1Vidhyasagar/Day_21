@@ -1,0 +1,28 @@
+
+#countDownDiv{
+    color: rgb(92, 7, 250) ;
+    font: 80px bold;
+    height: 50vh;
+    width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    border-radius: 28px;  
+    font-size: 40px;
+    font-weight: bold;
+    background: rgb(255,162,0);
+background: linear-gradient(135deg, rgba(255,162,0,1) 18%, rgba(255,255,255,1) 52%, rgba(73,240,20,1) 86%);
+    font-family:sans-serif;
+    border: none;
+    padding: 16px 36px;            
+    box-shadow: 0 38px 32px -23px black;
+    margin: 0 1em 1em;        
+}
+.Main_div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;   
+    text-align: center;
+    height: 100vh;
+}
